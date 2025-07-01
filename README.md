@@ -27,4 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
-vue3-th965qbep-nskras-projects.vercel.app
+
+рабочее приложение
+https://vue3-th965qbep-nskras-projects.vercel.app
